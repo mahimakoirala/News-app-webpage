@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header, section.hero{
+  padding: 20px;
+  background-image:linear-gradient(#577DCE, #1e418d );
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.bold{
+  font-weight: bold;
+  font-size: 25px;
+}
+.share{
+  border: black;
+  border-radius: 30%;
+}
